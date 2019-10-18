@@ -1,0 +1,43 @@
+.boxred {
+    width: 50px;
+    border: 15px solid red;
+    padding: 50px;
+    margin: 20px;
+    background-color: pink;
+    position: fixed;
+    bottom: 0;
+    right: 0;
+  }
+
+.boxgreen {
+    width: 50px;
+    border: 15px solid green;
+    padding: 50px;
+    margin: 20px;
+    background-color: lightgreen;
+    position: fixed;
+    top: 0; 
+    right: 0;
+  }
+
+.boxblue {
+    width: 50px;
+    border: 15px solid blue;
+    padding: 50px;
+    margin: 20px;
+    background-color: lightblue;
+    position: fixed;
+    top: 0;
+    left: 0;
+  }
+
+.boxyellow {
+    width: 50px;
+    border: 15px solid yellow;
+    padding: 50px;
+    margin: 20px;
+    background-color: lightyellow;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+  }
